@@ -1,0 +1,148 @@
+         102;GALLINA                       ;4;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         102;GALLINA                       ;4;10;;;;;;CG30664   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         102;GALLINA                       ;4;10;;;;;;CG30669   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         104;PECHUGA                       ;4;5;;;;;PECHUGA DE POLLO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         104;PECHUGA                       ;4;5;;;;;PECHUGA DE POLLO;AG30655   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         104;PECHUGA                       ;4;5;;;;;PECHUGA DE POLLO;HL33803   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         105;MUSLOS DE POLLO               ;1 ;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         105;MUSLOS DE POLLO               ;1 ;5;;;;;;AG30647   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         123;PECHUGA PAVO FRESCA           ;1,4;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         201;FILETES DE JAMON              ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         201;FILETES DE JAMON              ;14;10;;;;;;BF323756  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         201;FILETES DE JAMON              ;14;10;;;;;;BF323760  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         202;JAMON TROCEADO                ;14;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323647  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323655  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323666  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323675  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323681  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323733  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323740  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         203;CHULETA DE CERDO              ;14;5;;;;;;BF323763  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         205;CINTA DE LOMO                 ;14;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         205;CINTA DE LOMO                 ;14;5;;;;;;CG30659   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         205;CINTA DE LOMO                 ;14;5;;;;;;CG30663   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         205;CINTA DE LOMO                 ;14;5;;;;;;CG30665   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         205;CINTA DE LOMO                 ;14;5;;;;;;CG30668   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         205;CINTA DE LOMO                 ;14;5;;;;;;GE30341   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         208;SOLOMILLO DE CERDO            ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         208;SOLOMILLO DE CERDO            ;14;10;;;;;;CG30661   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         208;SOLOMILLO DE CERDO            ;14;10;;;;;;CG30667   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         213;JAMON S/H                     ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         213;JAMON S/H                     ;14;10;;;;;;BF323765  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         213;JAMON S/H                     ;14;10;;;;;;BF323766  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         214;CARRILLERA DE CERDO           ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         218;TOCINO                        ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         218;TOCINO                        ;14;10;;;;;;BF323741  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         222;ROTI DE CERDO                 ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         227;PANCETA FRESCA                ;14;10;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         227;PANCETA FRESCA                ;14;10;;;;;;BF323703  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         243;SECRETO DE CERDO              ;14;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         243;SECRETO DE CERDO              ;14;5;;;;;;GE30328   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         243;SECRETO DE CERDO              ;14;5;;;;;;GE30332   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         260;CARNE PICADA CERDO            ;14;5;;Magro de cerdo.;CONSERVAR ENTRE 0  Y 4 . COCINAR COMPLE-;TAMENTE ANTES DE SU CONSUMO. ;CARNE PICADA CERDO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         269;SECRETO IBERICO               ;1,2;30;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         301;FILETES DE AÑOJO              ;23;20;;FILETE DE AÑOJO;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         302;GUISAR DE AÑOJO               ;23  ;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         303;REDONDO DE AÑOJO              ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         304;CHULETERO DE AÑOJO            ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         304;CHULETERO DE AÑOJO            ;23;15;;;;;;CF30529   ;1234567890     ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         304;CHULETERO DE AÑOJO            ;23;15;;;;;;CF30532   ;222222222      ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         306;SOLOMILLO AÑOJO               ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         307;CHAMON AÑOJO                  ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         312;CARNE PICADA M.               ;1;4;;60% magro de cerdo, 40% carne de ternera;CONSERVAR ENTRE 0  Y 2 . COCINAR COMPLE-;TAMENTE ANTES DE SU CONSUMO.;CARNE PICADA MIXTA ;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         313;COSTILLA DE AÑOJO             ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         313;COSTILLA DE AÑOJO             ;23;20;;;;;;CM20387   ;CM621          ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         313;COSTILLA DE AÑOJO             ;23;20;;;;;;CM20396   ;CM626          ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         313;COSTILLA DE AÑOJO             ;23;20;;;;;;CM30570   ;CM902          ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         314;ENTRECOT AÑOJO                ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         316;ESCALOPINES DE AÑOJO          ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         319;HUESOS                        ;14;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         328;PECHO AÑOJO                   ;24;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         329;ROLLO AÑOJO                   ;24;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         333;ENTRECOT DE AÑOJO             ;2.3;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;1
+         340;FILETE AÑOJO D.               ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         341;CHAMON AÑOJO D.               ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         343;CARNE ASAR                    ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         346;SOLOMILLO TERNERA IGP         ;1,4;7;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         348;PICAÑA                        ;23;15 ;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         350;LOMO TERNERA IGP              ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         351;CHULETERO TERNERA ANGUS       ;24;7;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         352;TAPA DE IGP                   ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         352;TAPA DE IGP                   ;23;20;;;;;;XL30224   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         352;TAPA DE IGP                   ;23;20;;;;;;XL30225   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         353;CADERA DE AÑOJO               ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         401;CHULETA DE BUEY               ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         402;ENTRECOT DE BUEY              ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         402;ENTRECOT DE BUEY              ;23;15;;;;;;MX30510   ;MX2080515+     ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         402;ENTRECOT DE BUEY              ;23;15;;;;;;MX30511   ;MX2089200      ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         402;ENTRECOT DE BUEY              ;23;15;;;;;;MX30515   ;MX2120909      ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         403;SOLOMILLO DE BUEY             ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         403;SOLOMILLO DE BUEY             ;23;15;;;;;;CF30466   ;CF20230206     ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         403;SOLOMILLO DE BUEY             ;23;15;;;;;;CF30485   ;CF20230240     ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;1017098-O;;;;  ;;99
+         404;RABO DE BUEY                  ;1,4;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;1017098-O;;;;  ;;99
+         404;RABO DE BUEY                  ;1,4;15;;;;;;OP30002   ;0230230990+    ;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         405;ENTRECOT BUEY MENU            ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         507;MOLLEJAS LECHAZO              ;14;7;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         507;MOLLEJAS LECHAZO              ;14;7;;;;;;LG38861   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         701;LOMO ADOBADO                  ;14;6;;Cinta de lomo, pimenton, sal y ajo.;CONSERVAR ENTRE 0  Y 4 .                ;                              ;LOMO ADOBADO ;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         704;ALBONDIGAS                    ;14;5;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         705;SALCHICHAS                    ;14;5;;Carne de cerdo, sal, dextrina, citrato trisodico E-311iii, almidon, azucar, especias, sulfito sodico E-221, ascorba-to sodico E-301, metabisulfito potasico E-224 Y carmin E-120.;COCINAR COMPLETAMENTE ANTES DE CONSUMIR;;SALCHICHA FRESCA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         707;PICADILLO CHORIZO             ;1   ;6;;Magro de cerdo, tocino, pimenton, sal y ajo.;CONSERVAR ENTRE 0  Y 4 .                ;;PICADILLO DE CHORIZO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         713;COSTILLA ADOBADA              ;14;15;;Costilla de cerdo, pimenton, sal.;CONSERVAR ENTRE 2  Y 5 .;;COSTILLA ADOBADA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         719;CHORIZO IBERICO               ;1,4;120;;magro, grasa de cerdo, sal comun, pimenton, lactosa, azucar, proteinas lacteas y de soja,dextrina,estabilizante(E-450), antioxidante(E-300), conserva- dores(E250,E252), ajo, oregano, potenciador de color(E-120) SIN GLUTEN;;;CHORIZO IBERICO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         719;CHORIZO IBERICO               ;1,4;120;;magro, grasa de cerdo, sal comun, pimenton, lactosa, azucar, proteinas lacteas y de soja,dextrina,estabilizante(E-450), antioxidante(E-300), conserva- dores(E250,E252), ajo, oregano, potenciador de color(E-120) SIN GLUTEN;;;CHORIZO IBERICO;CR30087   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         720;SALCHICHON IBERICO            ;1,4;120;;magro y grasa de cerdo, sal comun, ajo, leche en polvo, dextrina, especias, dex-trosa, proteina aislada de soja, protei-na de leche, emulgentes(E450i) (E452i) (E451i),corrector de acidez(E-331iii), potenciador de sabor (E-621), conserva- dores(E-252 - E-250), colorante (E-120) antioxidante(E-316) SIN GLUTEN;;;SALCHICHON IBERICO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         720;SALCHICHON IBERICO            ;1,4;120;;magro y grasa de cerdo, sal comun, ajo, leche en polvo, dextrina, especias, dex-trosa, proteina aislada de soja, protei-na de leche, emulgentes(E450i) (E452i) (E451i),corrector de acidez(E-331iii), potenciador de sabor (E-621), conserva- dores(E-252 - E-250), colorante (E-120) antioxidante(E-316) SIN GLUTEN;;;SALCHICHON IBERICO;CR30088   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         754;CALLOS ROJOS 3.2KG            ;1,4;60;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         754;CALLOS ROJOS 3.2KG            ;1,4;60;;;;;;OV30453   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         754;CALLOS ROJOS 3.2KG            ;1,4;60;;;;;;OV30455   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         755;BURGUER MEAT T.               ;1;5; ;Carne de vacuno, sal, cereales (arroz), fecula de patata, dextrosa, especias, antioxidantes, citrato sodico (E-331), as-corbato sodico (E-301), coservadores (<11%so2), SULFITO sodico, METABISULFITOpotasico (E-224). COLORANTE: carmin de cochinilla (E-120),cereales (arroz y maiz).;CONSERVAR ENTRE 0  Y 4 .                ;                              ;BURGUER MEAT VACUNO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         755;BURGUER MEAT T.               ;1;5; ;Carne de vacuno, sal, cereales (arroz), fecula de patata, dextrosa, especias, antioxidantes, citrato sodico (E-331), as-corbato sodico (E-301), coservadores (<11%so2), SULFITO sodico, METABISULFITOpotasico (E-224). COLORANTE: carmin de cochinilla (E-120),cereales (arroz y maiz).;CONSERVAR ENTRE 0  Y 4 .                ;                              ;BURGUER MEAT VACUNO;21112023  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         755;BURGUER MEAT T.               ;1;5; ;Carne de vacuno, sal, cereales (arroz), fecula de patata, dextrosa, especias, antioxidantes, citrato sodico (E-331), as-corbato sodico (E-301), coservadores (<11%so2), SULFITO sodico, METABISULFITOpotasico (E-224). COLORANTE: carmin de cochinilla (E-120),cereales (arroz y maiz).;CONSERVAR ENTRE 0  Y 4 .                ;                              ;BURGUER MEAT VACUNO;23112023  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         756;BURGUER MEAT B.               ;14;5;;Carne de buey, sal, cereales ( arroz ), fecula de patata, dextrosa, especias, antioxidantes, citrato sodico (E-331), as-corbato sodico (E-301), conservadores (<11%so2), sulfito sodico, metasulfito potasico (E-224). COLORANTE: carmin de cochinilla (E-120),cereales (arroz y maiz).;CONSERVAR ENTRE 0  Y 4 ;;BURGUER MEAT BUEY;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         757;BURGUER MEAT P.               ;14;5;;Carne de pollo, hortaliza/cereales ( arroz, patata, cebolla y ajo deshidra-tado ), sal, destroxa, antiosidantes : citrato sodico (E-331), ascorbato sodico(E-301), fibras vegetales, conservadoresSULFITO sodico (E-221), METASULFITO potasico(E-224), especias y extracto de es- pecias. Colorante: carmin de cochinilla (E-120) ALERGENOS: SULFITOS  SIN GLUTEN ;CONSEVAR ENTRE 0  Y 4                   ;                              ;BURGUER MEAT POLLO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         757;BURGUER MEAT P.               ;14;5;;Carne de pollo, hortaliza/cereales ( arroz, patata, cebolla y ajo deshidra-tado ), sal, destroxa, antiosidantes : citrato sodico (E-331), ascorbato sodico(E-301), fibras vegetales, conservadoresSULFITO sodico (E-221), METASULFITO potasico(E-224), especias y extracto de es- pecias. Colorante: carmin de cochinilla (E-120) ALERGENOS: SULFITOS  SIN GLUTEN ;CONSEVAR ENTRE 0  Y 4                   ;                              ;BURGUER MEAT POLLO;22112023  ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         758;BURGUER MEAT IB.              ;14;15;;Carne de cerdo iberico, sal, cereales (arroz), fecula de patata, dextrosa, es-pecias, antioxidantes, citrato sodico (E-331), ascorbato sodico (E-301), con- servadores (<11%so2), sulfito sodico, metasulfito potasico (E-224). COLORANTE: carmin de cochinilla (E-120),cereales (arroz y maiz).;CONSERVAR ENTRE 0  Y 4 ;;BURGUER MEAT IBERICA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         801;LONGANIZA PICANTE             ;1.4;150;;Panceta de cerdo, jamon de cerdo, carne de vacuno, pimenton, sal y ajo. Informa cion nutricional (100 grs) valor energe tico 481kcal, grasa40grs de las cuales saturadas 15gr hidratos carbono 2.6gr azucares 1.1gr proteinas 26gr y sal 2.75gr.;conservar en lugar fresco y seco; ;LONGANIZA EXTRA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         801;LONGANIZA PICANTE             ;1.4;150;;Panceta de cerdo, jamon de cerdo, carne de vacuno, pimenton, sal y ajo. Informa cion nutricional (100 grs) valor energe tico 481kcal, grasa40grs de las cuales saturadas 15gr hidratos carbono 2.6gr azucares 1.1gr proteinas 26gr y sal 2.75gr.;conservar en lugar fresco y seco; ;LONGANIZA EXTRA;VG35827   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         801;LONGANIZA PICANTE             ;1.4;150;;Panceta de cerdo, jamon de cerdo, carne de vacuno, pimenton, sal y ajo. Informa cion nutricional (100 grs) valor energe tico 481kcal, grasa40grs de las cuales saturadas 15gr hidratos carbono 2.6gr azucares 1.1gr proteinas 26gr y sal 2.75gr.;conservar en lugar fresco y seco; ;LONGANIZA EXTRA;VG35830   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         803;CHORIZO                       ;14;180;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         804;MORCILLAS                     ;1400;180;;TOCINO DE CERDO, GRASA DE CERDO, CEBOLLASANGRE DE CERDO, PIMENTON DULCE,PIMENTONPICANTE, SAL. ENVOLTURA: TRIPA NATURAL VALORES NUTRICIONALES POR 100 GRS. VALOR ENERGETICO 2673KG / 647KCAL GRASAS: 62.3G.  SATURADAS:23.1G. HIDRATOS CARBONO 6.9G. DE LOS CUALES PROTEINA: 12.8G, SAL 2.1G, AZUCARES: 0.0;;;MORCILLA AHUMADA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         805;PANCETA SALADA S/H            ;14;180;;Panceta fresca de cerdo, sal, conserva- dores ( nitrato potasico y nitrito sodi-co) y glucosa.;CONSERVAR ENTRE 2  Y 5 .;;PANCETA SALADA SH.;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         805;PANCETA SALADA S/H            ;14;180;;Panceta fresca de cerdo, sal, conserva- dores ( nitrato potasico y nitrito sodi-co) y glucosa.;CONSERVAR ENTRE 2  Y 5 .;;PANCETA SALADA SH.;DS30275   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         805;PANCETA SALADA S/H            ;14;180;;Panceta fresca de cerdo, sal, conserva- dores ( nitrato potasico y nitrito sodi-co) y glucosa.;CONSERVAR ENTRE 2  Y 5 .;;PANCETA SALADA SH.;DS30276   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         810;CECINA DE VACA                ;14;180;;Carne de vacuno, sal, conservadores ( E-250, E-252), antioxidante (E-300) y humonatural.;CONSERVAR ENTRE 2  Y 5 ;;CECINA CURADA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         810;CECINA DE VACA                ;14;180;;Carne de vacuno, sal, conservadores ( E-250, E-252), antioxidante (E-300) y humonatural.;CONSERVAR ENTRE 2  Y 5 ;;CECINA CURADA;XX30369   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         810;CECINA DE VACA                ;14;180;;Carne de vacuno, sal, conservadores ( E-250, E-252), antioxidante (E-300) y humonatural.;CONSERVAR ENTRE 2  Y 5 ;;CECINA CURADA;XX30370   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         811;LOMO EMBUCHADO                ;14;180;;Lomo de cerdo, pimenton, ajo, azucar,sal(E-311, E-250, E-252, E-300).;;;LOMO EMBUCHADO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         811;LOMO EMBUCHADO                ;14;180;;Lomo de cerdo, pimenton, ajo, azucar,sal(E-311, E-250, E-252, E-300).;;;LOMO EMBUCHADO;EM30091   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         812;LACON SALADO                  ;1,4;180;;Lacon fresco de cerdo, sal, dextrosa, conservadores (E-250,E-252).;CONSERVAR ENTRE 2  Y5 ;;LACON SALADO;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         872;CECINA ANGUS                  ;14;90;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+         953;COMPANGO DE FABADA            ;1,4;30;;Chorizo, morcilla, panceta salada.;;;COMPANGO PARA FABADA;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1301;FILETES DE AÑOJO              ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1301;FILETES DE AÑOJO              ;23;20;;;;;;CF30523   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1301;FILETES DE AÑOJO              ;23;20;;;;;;CF30527   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1302;AGUJA DE AÑOJO                ;2,3;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;3
+        1302;AGUJA DE AÑOJO                ;2,3;20;;;;;;CF30518   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;3
+        1303;REDONDO DE AÑOJO              ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1303;REDONDO DE AÑOJO              ;23;20;;;;;;CF30524   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1303;REDONDO DE AÑOJO              ;23;20;;;;;;CF30528   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1304;CHULETERO DE AÑOJO            ;2,3;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1304;CHULETERO DE AÑOJO            ;2,3;15;;;;;;CG30666   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1304;CHULETERO DE AÑOJO            ;2,3;15;;;;;;CG30670   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1306;SOLOMILLO DE AÑOJO            ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1307;CHAMON DE AÑOJO               ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1308;TAPA DE AÑOJO                 ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1308;TAPA DE AÑOJO                 ;23;20;;;;;;CF30522   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1308;TAPA DE AÑOJO                 ;23;20;;;;;;CF30526   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1308;TAPA DE AÑOJO                 ;23;20;;;;;;CF30530   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1308;TAPA DE AÑOJO                 ;23;20;;;;;;CF30531   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1308;TAPA DE AÑOJO                 ;23;20;;;;;;XX30036   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1309;CONTRA DE AÑOJO               ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1309;CONTRA DE AÑOJO               ;23;20;;;;;;CF30496   ;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1310;CADERA DE IGP                 ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1311;ASAR DE AÑOJO                 ;23;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1312;BABILLA DE AÑOJO              ;14;20;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
+        1314;ENTRECOT DE AÑOJO             ;23;15;;;;;;;;ESPAÑA;ESPAÑA;ESPAÑA;;ESPAÑA;;;;;;;99
